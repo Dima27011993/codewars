@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon .\\growth-of-population.js"
+    "test": "nodemon .\\check-polindrom.js"
   },
   "repository": {
     "type": "git",
