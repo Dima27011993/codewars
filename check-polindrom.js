@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/5b7bd90ef643c4df7400015d/train/javascript
+
 function solve(s) {
   const chetnoe = isChetnoe(s);
   console.log(chetnoe);
